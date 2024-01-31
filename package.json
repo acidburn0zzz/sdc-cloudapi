@@ -24,7 +24,7 @@
         "sdc-clients": "git+ssh://git@github.com:joyent/node-sdc-clients.git#beadb69",
         "ufds": "git+ssh://git@github.com:joyent/node-ufds.git#master",
         "semver": "2.2.1",
-        "nodemailer": "0.3.29",
+        "nodemailer": "6.9.8",
         "clone": "0.1.5",
         "assert-plus": "0.1.5",
         "asn1": "0.1.11",
